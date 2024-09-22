@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+altair
+bokeh
+pillow
+opencv-python
+jupyter
