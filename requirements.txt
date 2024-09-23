@@ -1,6 +1,5 @@
 streamlit
 load_dotenv
-find_dotenv
 google.generativeai 
 numpy
 pandas
