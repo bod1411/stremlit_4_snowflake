@@ -15,4 +15,3 @@ opencv-python
 jupyter
 Converter
 convert
-tempfile
